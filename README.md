@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokhansamet" alt="gokhansamet" /> </p>
 
 - 🔭 I’m currently working <img src="https://konpa.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/>
-- 🌱 I’m currently learning HTML/<img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" width="20" height="20" alt="HTML"/> /<img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="Javascript" width="20" height="20" />
+- 🌱 I’m currently learning <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" width="20" height="20" alt="HTML"/>/<img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" width="20" height="20" alt="HTML"/> /<img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="Javascript" width="20" height="20" />
 - 📫 How to reach me **gokhanalbayrak43@gmail.com**
 
 <p align="left"><strong>I used this skills </strong><hr><img src="https://konpa.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gokhansamet&show_icons=true" alt="gokhansamet" /> </p>
