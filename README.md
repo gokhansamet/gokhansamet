@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working <img src="https://user-images.githubusercontent.com/53264738/88378748-47259080-cdaa-11ea-8f60-807e8eb05702.png" alt="csharp" width="30" height="30"/>
 
-- 🌱 I’m currently learning <img src="https://user-images.githubusercontent.com/53264738/88379492-c071b300-cdab-11ea-897e-0f51cb64bbca.png" width="20" height="20" alt="Html"/>/<img src="https://user-images.githubusercontent.com/53264738/88379502-c23b7680-cdab-11ea-9b33-49967d852945.png" width="20" height="20" alt="Css"/> /<img src="https://user-images.githubusercontent.com/53264738/88379505-c4053a00-cdab-11ea-9ebd-5dccf50ee0ae.png" alt="Javascript" width="20" height="20" />
+- 🌱 I’m currently learning <img src="https://user-images.githubusercontent.com/53264738/88379492-c071b300-cdab-11ea-897e-0f51cb64bbca.png" width="30" height="30" alt="Html"/>/<img src="https://user-images.githubusercontent.com/53264738/88379502-c23b7680-cdab-11ea-9b33-49967d852945.png" width="30" height="30" alt="Css"/> /<img src="https://user-images.githubusercontent.com/53264738/88379505-c4053a00-cdab-11ea-9ebd-5dccf50ee0ae.png" alt="Javascript" width="30" height="30" />
 
 - 📫 How to reach me **gokhanalbayrak43@gmail.com**
 
