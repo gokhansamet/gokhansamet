@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gökhan Samet Albayrak</h1>
 <h3 align="center">A computer engineering student from Eskişehir Osmangazi University. I am education unit manager at BBTK (Computer Informatics and Technologies Club) in university.</h3>
-<p align="left"> <img src="https://user-images.githubusercontent.com/53264738/88378748-47259080-cdaa-11ea-8f60-807e8eb05702.png" /> </p>
+<p align="left"> <img src="" /> </p>
 
-- 🔭 I’m currently working <img src="https://konpa.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/>
+- 🔭 I’m currently working <img src="https://user-images.githubusercontent.com/53264738/88378748-47259080-cdaa-11ea-8f60-807e8eb05702.png" alt="csharp" width="20" height="20"/>
 - 🌱 I’m currently learning <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" width="20" height="20" alt="HTML"/>/<img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" width="20" height="20" alt="HTML"/> /<img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="Javascript" width="20" height="20" />
 - 📫 How to reach me **gokhanalbayrak43@gmail.com**
 
