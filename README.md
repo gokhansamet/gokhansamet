@@ -3,7 +3,9 @@
 <p align="left"> <img src="" /> </p>
 
 - 🔭 I’m currently working <img src="https://user-images.githubusercontent.com/53264738/88378748-47259080-cdaa-11ea-8f60-807e8eb05702.png" alt="csharp" width="30" height="30"/>
-- 🌱 I’m currently learning <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" width="20" height="20" alt="HTML"/>/<img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" width="20" height="20" alt="HTML"/> /<img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="Javascript" width="20" height="20" />
+
+- 🌱 I’m currently learning <img src="https://user-images.githubusercontent.com/53264738/88379492-c071b300-cdab-11ea-897e-0f51cb64bbca.png" width="20" height="20" alt="Html"/>/<img src="https://user-images.githubusercontent.com/53264738/88379502-c23b7680-cdab-11ea-9b33-49967d852945.png" width="20" height="20" alt="Css"/> /<img src="https://user-images.githubusercontent.com/53264738/88379505-c4053a00-cdab-11ea-9ebd-5dccf50ee0ae.png" alt="Javascript" width="20" height="20" />
+
 - 📫 How to reach me **gokhanalbayrak43@gmail.com**
 
 <p align="left"><strong>I used</strong> <br><img src="https://user-images.githubusercontent.com/53264738/88379365-7dafdb00-cdab-11ea-8367-42a7899d50a7.png" alt="cplusplus" width="40" height="40"/><img src="https://user-images.githubusercontent.com/53264738/88378748-47259080-cdaa-11ea-8f60-807e8eb05702.png" alt="csharp" width="40" height="40"/> </p><p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gokhansamet&show_icons=true" alt="gokhansamet" /> </p>
