@@ -7,8 +7,6 @@
 
 <p align="left"><strong>I used</strong> <br><img src="https://user-images.githubusercontent.com/53264738/88379365-7dafdb00-cdab-11ea-8367-42a7899d50a7.png" alt="cplusplus" width="40" height="40"/><img src="https://user-images.githubusercontent.com/53264738/88378748-47259080-cdaa-11ea-8f60-807e8eb05702.png" alt="csharp" width="40" height="40"/> </p><p align="center"></p>
   
-<a href="https://www.linkedin.com/in/g%C3%B6khan-samet-albayrak-3b1229152/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gökhan samet albayrak" height="40" width=40" /></a>
-
 <p align="center">
 <a href="https://www.linkedin.com/in/g%C3%B6khan-samet-albayrak-3b1229152/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gökhan samet albayrak" height="40" width=40" /></a>
 <a href="https://instagram.com/gokhansametalbayrak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="gokhansametalbayrak" height="40" width="40" /></a>
