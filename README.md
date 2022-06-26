@@ -1,6 +1,16 @@
 <p> Hello, this is <strong>Gökhan Samet Albayrak</strong> </p>
 <p>I am a <strong>full stack developer</strong> living in <strong>Eskişehir, Turkey</strong>. I have worked as a <strong>Education Unit Manager</strong> at BBTK (Computer Information and Technologies Club) at the ESOGU university for two years. I love being part of development of web technologies. I eager to write and to read articles that are generally on the Medium. Currently working with <strong>React, TypeScript and Java (Spring Boot)</strong>.</p>
 
+<h3 align="left">Here is My Medium Articles</h3>
+<p><a href="https://gokhansametalbayrak.medium.com/react-memoization-react-memo-nas%C4%B1l-kullan%C4%B1l%C4%B1r-970d78edee58" target="blank">React Memoization-React.memo() Nasıl Kullanılır ?</a></p>
+<p><a href="https://medium.com/bilgisayar-ve-bili%C5%9Fim-teknolojileri-kul%C3%BCb%C3%BC/javascript-bind-call-ve-apply-metotlar%C4%B1n%C4%B1n-mant%C4%B1%C4%9F%C4%B1-41d810035961" target="blank">Javascript Bind, Call ve Apply Metotlarının Mantığı</a></p>
+<p><a href="https://medium.com/bilgisayar-ve-bili%C5%9Fim-teknolojileri-kul%C3%BCb%C3%BC/git-commit-mesaj%C4%B1-yazman%C4%B1n-7-kural%C4%B1-1ba8b0a1fa04" target="blank">Git Commit Mesajı Yazmanın 7 Kuralı
+</a></p>
+<p><a href="https://medium.com/bilgisayar-ve-bili%C5%9Fim-teknolojileri-kul%C3%BCb%C3%BC/simple-use-of-git-489be439c4c" target="blank">Simple Use Of Git</a></p>
+<p><a href="https://medium.com/bilgisayar-ve-bili%C5%9Fim-teknolojileri-kul%C3%BCb%C3%BC/redisearch-nedir-ne-i%CC%87%C5%9Fe-yarar-elasticsearch-i%CC%87le-fark%C4%B1-nedir-cc9d1c2e3ff0" target="blank">RediSearch Nedir? Ne İşe Yarar? ElasticSearch İle Farkı Nedir?</a></p>
+<p><a href="https://gokhansametalbayrak.medium.com/rsi-nas%C4%B1l-kullan%C4%B1l%C4%B1r-3a7725ea915a" target="blank">RSI Nasıl Kullanılır?
+</a></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gökhan-samet-albayrak-3b1229152" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gökhan-samet-albayrak-3b1229152" height="30" width="40" /></a>
