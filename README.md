@@ -1,4 +1,4 @@
-<h3 >I am a computer engineer student at Eskişehir Osmangazi University and I have worked as the Education Unit Manager at BBTK (Computer Information and Technologies Club) at the university for two years. </h3>
+<h3 >I am a full stack developer living in Eskişehir, Turkey. I have worked as a Education Unit Manager at BBTK (Computer Information and Technologies Club) at the ESOGU university for two years. I love being part of development of web technologies. I eager to write and to read articles that are generally on the Medium. Currently working with React, TypeScript and Java (Spring Boot).</h3>
 
 
 
