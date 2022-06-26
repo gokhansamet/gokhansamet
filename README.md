@@ -1,4 +1,5 @@
-<h3 >I am a full stack developer living in Eskişehir, Turkey. I have worked as a Education Unit Manager at BBTK (Computer Information and Technologies Club) at the ESOGU university for two years. I love being part of development of web technologies. I eager to write and to read articles that are generally on the Medium. Currently working with React, TypeScript and Java (Spring Boot).</h3>
+<p> Hello, this is <strong>Gökhan Samet Albayrak</strong> </p>
+<p>I am a <strong>full stack developer</strong> living in <strong>Eskişehir, Turkey</strong>. I have worked as a <strong>Education Unit Manager</strong> at BBTK (Computer Information and Technologies Club) at the ESOGU university for two years. I love being part of development of web technologies. I eager to write and to read articles that are generally on the Medium. Currently working with <strong>React, TypeScript and Java (Spring Boot)</strong>.</p>
 
 
 
