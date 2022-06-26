@@ -1,8 +1,6 @@
 <p> Hello, this is <strong>Gökhan Samet Albayrak</strong> </p>
 <p>I am a <strong>full stack developer</strong> living in <strong>Eskişehir, Turkey</strong>. I have worked as a <strong>Education Unit Manager</strong> at BBTK (Computer Information and Technologies Club) at the ESOGU university for two years. I love being part of development of web technologies. I eager to write and to read articles that are generally on the Medium. Currently working with <strong>React, TypeScript and Java (Spring Boot)</strong>.</p>
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokhansamet&label=Profile%20views&color=0e75b6&style=flat" alt="gokhansamet" /> </p>
 
 <h3 align="left">Connect with me:</h3>
