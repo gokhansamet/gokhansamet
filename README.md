@@ -1,5 +1,5 @@
 <p> Hello, this is <strong>Gökhan Samet Albayrak</strong> </p>
-<p>I am a <strong>full stack developer</strong> living in <strong>Eskişehir, Turkey</strong>. I have worked as a <strong>Education Unit Manager</strong> at BBTK (Computer Information and Technologies Club) at the ESOGU university for two years. I love being part of development of web technologies. I eager to write and to read articles that are generally on the Medium. Currently working with <strong>React, TypeScript and Java (Spring Boot)</strong>.</p>
+<p>I am a <strong>software developer</strong> at Yapıkredi Technology via Metasis technology. I eager to write and to read articles that are generally on the Medium. Currently working with <strong>React, TypeScript and Java (Spring Boot)</strong>.</p>
 
 <h3 align="left">Here is My Medium Articles</h3>
 <p><a href="https://gokhansametalbayrak.medium.com/react-memoization-react-memo-nas%C4%B1l-kullan%C4%B1l%C4%B1r-970d78edee58" target="blank">React Memoization-React.memo() Nasıl Kullanılır ?</a></p>
